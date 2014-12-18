@@ -16,7 +16,7 @@ gem 'faker',  '1.4.3'
 # gem 'bcrypt-ruby', '~> 3.1.2'
 
 # To use Jbuilder templates for JSON
-# gem 'jbuilder'
+ gem 'jbuilder'
 
 # Use unicorn as the app server
  gem 'unicorn'
