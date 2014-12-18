@@ -27,15 +27,25 @@ Document Length:        202 bytes
 
 
 Concurrency Level:      1
+
 Time taken for tests:   46.226 seconds
+
 Complete requests:      1000
+
 Failed requests:        0
+
 Total transferred:      434000 bytes
+
 HTML transferred:       202000 bytes
+
 Requests per second:    21.63 [#/sec] (mean)
+
 Time per request:       46.226 [ms] (mean)
+
 Time per request:       46.226 [ms] (mean, across all concurrent requests)
+
 Transfer rate:          9.17 [Kbytes/sec] received
+
 
 Connection Times (ms)
               min  mean[+/-sd] median   max
